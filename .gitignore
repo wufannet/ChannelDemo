@@ -2,7 +2,7 @@
 .gradle
 /local.properties
 #自己添加的
-/.idea 
+/.idea
 /.idea/caches
 /.idea/libraries
 /.idea/modules.xml
